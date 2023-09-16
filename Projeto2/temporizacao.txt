@@ -1,0 +1,540 @@
+--------------------
+1 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.021323442459106445
+--------------------
+1 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.02881002426147461
+--------------------
+1 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.022658586502075195
+--------------------
+1 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.02144336700439453
+--------------------
+1 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.017993450164794922
+--------------------
+1 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.011342763900756836
+--------------------
+1 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.01313638687133789
+--------------------
+1 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.011049032211303711
+--------------------
+1 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.01258993148803711
+--------------------
+2 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.006439685821533203
+--------------------
+2 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.006604433059692383
+--------------------
+2 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.006572246551513672
+--------------------
+2 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.006363868713378906
+--------------------
+2 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.009839296340942383
+--------------------
+2 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.01520395278930664
+--------------------
+2 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.015004873275756836
+--------------------
+2 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.011734485626220703
+--------------------
+2 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.010466814041137695
+--------------------
+3 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.008292198181152344
+--------------------
+3 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.007124185562133789
+--------------------
+3 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.006325244903564453
+--------------------
+3 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.0063860416412353516
+--------------------
+3 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.006289958953857422
+--------------------
+3 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.006982088088989258
+--------------------
+3 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.006618022918701172
+--------------------
+3 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.006137371063232422
+--------------------
+3 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.0070459842681884766
+--------------------
+4 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.005803108215332031
+--------------------
+4 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.006402254104614258
+--------------------
+4 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.0056841373443603516
+--------------------
+4 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.0064542293548583984
+--------------------
+4 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.007263660430908203
+--------------------
+4 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.007767438888549805
+--------------------
+4 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.00707554817199707
+--------------------
+4 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.006865739822387695
+--------------------
+4 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.006179332733154297
+--------------------
+5 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.0062732696533203125
+--------------------
+5 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.007170677185058594
+--------------------
+5 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.007622241973876953
+--------------------
+5 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.00809788703918457
+--------------------
+5 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.007486104965209961
+--------------------
+5 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.007788181304931641
+--------------------
+5 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.007242679595947266
+--------------------
+5 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.007079601287841797
+--------------------
+5 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.007119417190551758
+--------------------
+6 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.007080554962158203
+--------------------
+6 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.007155656814575195
+--------------------
+6 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.00809025764465332
+--------------------
+6 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.00822305679321289
+--------------------
+6 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.018601417541503906
+--------------------
+6 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.020763397216796875
+--------------------
+6 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.009801387786865234
+--------------------
+6 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.008500099182128906
+--------------------
+6 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.008371591567993164
+--------------------
+7 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.01443338394165039
+--------------------
+7 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.009977579116821289
+--------------------
+7 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.009510517120361328
+--------------------
+7 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.008371829986572266
+--------------------
+7 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.008736848831176758
+--------------------
+7 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.010068178176879883
+--------------------
+7 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.0077707767486572266
+--------------------
+7 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.00925588607788086
+--------------------
+7 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.00888681411743164
+--------------------
+8 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.00811314582824707
+--------------------
+8 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.008503437042236328
+--------------------
+8 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.008348703384399414
+--------------------
+8 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.009217262268066406
+--------------------
+8 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.007880210876464844
+--------------------
+8 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.008897781372070312
+--------------------
+8 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.010355234146118164
+--------------------
+8 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.009877204895019531
+--------------------
+8 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.010678768157958984
+--------------------
+9 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.00856781005859375
+--------------------
+9 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.00909423828125
+--------------------
+9 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.016523361206054688
+--------------------
+9 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.028842687606811523
+--------------------
+9 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.010551691055297852
+--------------------
+9 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.010980367660522461
+--------------------
+9 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.013628721237182617
+--------------------
+9 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.015842914581298828
+--------------------
+9 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.01440286636352539
+--------------------
+10 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.00980997085571289
+--------------------
+10 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.010248899459838867
+--------------------
+10 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.011426448822021484
+--------------------
+10 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.009894132614135742
+--------------------
+10 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.010883808135986328
+--------------------
+10 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.013107061386108398
+--------------------
+10 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.011101245880126953
+--------------------
+10 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.013701438903808594
+--------------------
+10 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.011506080627441406
+--------------------
+11 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.012178182601928711
+--------------------
+11 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.010628461837768555
+--------------------
+11 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.009941339492797852
+--------------------
+11 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.011453866958618164
+--------------------
+11 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.010666847229003906
+--------------------
+11 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.01030278205871582
+--------------------
+11 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.030596256256103516
+--------------------
+11 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.023331880569458008
+--------------------
+11 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.011668920516967773
+--------------------
+12 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.011604785919189453
+--------------------
+12 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.01634979248046875
+--------------------
+12 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.014124393463134766
+--------------------
+12 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.013382434844970703
+--------------------
+12 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.011911153793334961
+--------------------
+12 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.012263059616088867
+--------------------
+12 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.012072324752807617
+--------------------
+12 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.012568235397338867
+--------------------
+12 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.012942314147949219
+--------------------
+13 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.0120697021484375
+--------------------
+13 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.012588262557983398
+--------------------
+13 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.012038230895996094
+--------------------
+13 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.01368403434753418
+--------------------
+13 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.013266324996948242
+--------------------
+13 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.012277364730834961
+--------------------
+13 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.013194561004638672
+--------------------
+13 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.013079643249511719
+--------------------
+13 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.014560461044311523
+--------------------
+14 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.012846946716308594
+--------------------
+14 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.012672901153564453
+--------------------
+14 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.01392984390258789
+--------------------
+14 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.012444019317626953
+--------------------
+14 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.013256549835205078
+--------------------
+14 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.014059782028198242
+--------------------
+14 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.013677120208740234
+--------------------
+14 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.015255212783813477
+--------------------
+14 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.015445709228515625
+--------------------
+15 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.012251853942871094
+--------------------
+15 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.01385807991027832
+--------------------
+15 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.013888120651245117
+--------------------
+15 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.013590812683105469
+--------------------
+15 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.015512704849243164
+--------------------
+15 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.016157150268554688
+--------------------
+15 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.015001296997070312
+--------------------
+15 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.01538228988647461
+--------------------
+15 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.015599727630615234
+--------------------
+16 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.013425111770629883
+--------------------
+16 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.015424251556396484
+--------------------
+16 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.015480995178222656
+--------------------
+16 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.014870166778564453
+--------------------
+16 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.013920068740844727
+--------------------
+16 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.01500082015991211
+--------------------
+16 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.015615224838256836
+--------------------
+16 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.0164031982421875
+--------------------
+16 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.024153947830200195
+--------------------
+17 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.0255126953125
+--------------------
+17 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.023104429244995117
+--------------------
+17 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.02346181869506836
+--------------------
+17 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.01990795135498047
+--------------------
+17 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.01693582534790039
+--------------------
+17 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.017541170120239258
+--------------------
+17 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.017354488372802734
+--------------------
+17 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.01708507537841797
+--------------------
+17 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.01740264892578125
+--------------------
+18 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.01599597930908203
+--------------------
+18 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.016182422637939453
+--------------------
+18 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.017165184020996094
+--------------------
+18 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.016629457473754883
+--------------------
+18 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.016349077224731445
+--------------------
+18 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.016569137573242188
+--------------------
+18 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.017902135848999023
+--------------------
+18 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.016584396362304688
+--------------------
+18 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.018394947052001953
+--------------------
+19 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.028958797454833984
+--------------------
+19 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.028531551361083984
+--------------------
+19 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.021140336990356445
+--------------------
+19 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.027005672454833984
+--------------------
+19 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.019727468490600586
+--------------------
+19 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.01728057861328125
+--------------------
+19 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.01846623420715332
+--------------------
+19 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.01827692985534668
+--------------------
+19 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.02025437355041504
+--------------------
+20 Processo(s) e 1 Thread(s)
+Tempo de execução = 0.017321348190307617
+--------------------
+20 Processo(s) e 2 Thread(s)
+Tempo de execução = 0.017791748046875
+--------------------
+20 Processo(s) e 3 Thread(s)
+Tempo de execução = 0.019384384155273438
+--------------------
+20 Processo(s) e 4 Thread(s)
+Tempo de execução = 0.018433570861816406
+--------------------
+20 Processo(s) e 5 Thread(s)
+Tempo de execução = 0.018706083297729492
+--------------------
+20 Processo(s) e 6 Thread(s)
+Tempo de execução = 0.018878459930419922
+--------------------
+20 Processo(s) e 7 Thread(s)
+Tempo de execução = 0.019490718841552734
+--------------------
+20 Processo(s) e 8 Thread(s)
+Tempo de execução = 0.01841259002685547
+--------------------
+20 Processo(s) e 9 Thread(s)
+Tempo de execução = 0.02115631103515625

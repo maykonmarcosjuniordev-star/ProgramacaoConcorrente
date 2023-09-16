@@ -1,0 +1,70 @@
+[
+    {
+        "label": "Process",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "Corretor",
+        "importPath": "Corretor",
+        "description": "Corretor",
+        "isExtraImport": true,
+        "detail": "Corretor",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Corretor",
+        "kind": 6,
+        "importPath": "Projeto2.Corretor",
+        "description": "Projeto2.Corretor",
+        "peekOfCode": "class Corretor:\n    def __init__(self, linhas: list[str], Nprocessos: int, Nthreads: int):\n        # são 9 linhas por jogo mais uma em branco,\n        # menos o último, por isso precisa somar 1\n        Njogos = (len(linhas) + 1)//10\n        cond = [Nprocessos, Njogos]\n        # se Nprocessos for maior que\n        # o número de jogos, é alterado\n        Nprocessos = cond[int(Nprocessos > Njogos)]\n        self.Nprocessos = Nprocessos",
+        "detail": "Projeto2.Corretor",
+        "documentation": {}
+    },
+    {
+        "label": "escreve_resultado",
+        "kind": 2,
+        "importPath": "Projeto2.sudoku",
+        "description": "Projeto2.sudoku",
+        "peekOfCode": "def escreve_resultado(tempo: float):\n    temporizacao = open(\"temporizacao.txt\", 'a')\n    temporizacao.write(\"--------------------\\n\")\n    temporizacao.write(str(Nprocessos) + \" Processo(s) \" +\n                       str(Nthreads) + \" Thread(s)\\n\")\n    temporizacao.write(\"Tempo de execução = \" +\n                       str(tempo) + '\\n')\n    temporizacao.close()\nentrada = input().split()\nif (len(entrada) >= 3):",
+        "detail": "Projeto2.sudoku",
+        "documentation": {}
+    },
+    {
+        "label": "entrada",
+        "kind": 5,
+        "importPath": "Projeto2.sudoku",
+        "description": "Projeto2.sudoku",
+        "peekOfCode": "entrada = input().split()\nif (len(entrada) >= 3):\n    NomeArquivo = entrada[0]\n    try:\n        arquivo = open(NomeArquivo, 'r')\n    except:\n        print(\"Arquivo Inválido\")\n    else:\n        linhas = arquivo.readlines()\n        arquivo.close()",
+        "detail": "Projeto2.sudoku",
+        "documentation": {}
+    }
+]
